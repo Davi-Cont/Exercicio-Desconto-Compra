@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Exercicio_8\bin\Debug\Exercicio_8.exe.config
+C:\Users\Usuario\Desktop\Exercicio_8\bin\Debug\Exercicio_8.exe
+C:\Users\Usuario\Desktop\Exercicio_8\bin\Debug\Exercicio_8.pdb
+C:\Users\Usuario\Desktop\Exercicio_8\obj\Debug\Exercicio_8.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Exercicio_8\obj\Debug\Exercicio_8.exe
+C:\Users\Usuario\Desktop\Exercicio_8\obj\Debug\Exercicio_8.pdb
+D:\Programaçao de algoritimos\Exercicio_8\bin\Debug\Exercicio_8.exe.config
+D:\Programaçao de algoritimos\Exercicio_8\bin\Debug\Exercicio_8.exe
+D:\Programaçao de algoritimos\Exercicio_8\bin\Debug\Exercicio_8.pdb
+D:\Programaçao de algoritimos\Exercicio_8\obj\Debug\Exercicio_8.csproj.AssemblyReference.cache
+D:\Programaçao de algoritimos\Exercicio_8\obj\Debug\Exercicio_8.csproj.CoreCompileInputs.cache
+D:\Programaçao de algoritimos\Exercicio_8\obj\Debug\Exercicio_8.exe
+D:\Programaçao de algoritimos\Exercicio_8\obj\Debug\Exercicio_8.pdb
